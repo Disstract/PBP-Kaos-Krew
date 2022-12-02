@@ -1,0 +1,15 @@
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\bin\Debug\net6.0\KaosKrew.deps.json
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\bin\Debug\net6.0\KaosKrew.dll
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\bin\Debug\net6.0\KaosKrew.pdb
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\bin\Debug\net6.0\Project Black Pearl.SDK.dll
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\bin\Debug\net6.0\Project Black Pearl.SDK.pdb
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\obj\Debug\net6.0\KaosKrew.csproj.AssemblyReference.cache
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\obj\Debug\net6.0\KaosKrew.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\obj\Debug\net6.0\KaosKrew.AssemblyInfoInputs.cache
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\obj\Debug\net6.0\KaosKrew.AssemblyInfo.cs
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\obj\Debug\net6.0\KaosKrew.csproj.CoreCompileInputs.cache
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\obj\Debug\net6.0\KaosKrew.csproj.CopyComplete
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\obj\Debug\net6.0\KaosKrew.dll
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\obj\Debug\net6.0\refint\KaosKrew.dll
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\obj\Debug\net6.0\KaosKrew.pdb
+E:\Personal Backup\ProgrammingProjects\PBP Plugins\Tested plugins for PBP\KaosKrew\KaosKrew\KaosKrew\obj\Debug\net6.0\ref\KaosKrew.dll

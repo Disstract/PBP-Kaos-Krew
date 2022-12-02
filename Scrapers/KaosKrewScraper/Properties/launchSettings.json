@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KaosKrewScraper": {
+      "commandName": "Project",
+      "commandLineArgs": "\"https://kaoskrew.org/viewtopic.php?t=6079\" \"Fallout 3 GOTY\" \"C:/Users/DissTract/Downloads/SecondScraperTest.json\""
+    }
+  }
+}

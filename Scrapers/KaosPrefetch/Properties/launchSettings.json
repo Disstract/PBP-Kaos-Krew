@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KaosPrefetch": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:/Users/Disstract/AppData/Roaming/Project Black Pearl/Scraper Results/Testing Arguments.json\""
+    }
+  }
+}

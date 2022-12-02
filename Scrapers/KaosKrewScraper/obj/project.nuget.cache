@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HyvnxaP1Fa4BO8O5k9JNPbC2sZ47O8opllB1wR18L3Rg2b90RbkOX+FMy77QHdvxSQDalH6gZUEJ30g/ZovsTA==",
+  "success": true,
+  "projectFilePath": "E:\\Personal Backup\\ProgrammingProjects\\Scrapers\\Kaos C#\\KaosKrewScraper\\KaosKrewScraper\\KaosKrewScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DissTract\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\DissTract\\.nuget\\packages\\selenium.webdriver\\4.6.0\\selenium.webdriver.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

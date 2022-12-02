@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Project Black Pearl.SDK">
+      <HintPath>C:\Users\DissTract\Documents\GitHub\Project-Black-Pearl\Project Black Pearl.SDK\bin\Debug\net6.0\Project Black Pearl.SDK.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
